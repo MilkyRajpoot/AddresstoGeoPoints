@@ -11,3 +11,4 @@ Convert Address to Latitude and Longitude
 		python manage.py migrate
 		python manage.py createsuperuser
 		python manage.py runserver
+4. Only Excel File allowed
