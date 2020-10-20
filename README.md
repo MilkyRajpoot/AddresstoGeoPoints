@@ -4,7 +4,7 @@ Convert Address to Latitude and Longitude
 	virtualenv .env
 	then active env.
 2. source .env/bin/activate
-	Go into project and install pip requirement txt
+	Go into project and install pip requirement.txt
 3. pip install -r requirement.txt
 	- Hit the commands
 		python manage.py makemigrations
